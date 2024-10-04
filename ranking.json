@@ -1,0 +1,9 @@
+{
+    "_id": ObjectId("..."),
+    "month": "2024-05",
+    "ranking": {
+      "topContributors": [ObjectId("1111"), ObjectId("2222"),ObjectId("3333")],
+      "topSolvers": [ObjectId("2222"), ObjectId("1111"),ObjectId("3333")]
+    }
+}
+

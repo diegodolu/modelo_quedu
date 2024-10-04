@@ -1,0 +1,21 @@
+
+{
+    [
+        {
+            "_id": 112144311,
+            "name"   : "Comunidad 01",
+            "numberOfQuedus": 4,
+            "image": "https://www.google.com",
+            "sharedQuedus_ids": [ObjectId("..."), ObjectId("...")]
+        },
+        {
+            "_id": 112144311,
+            "name"   : "Comunidad 02",
+            "numberOfQuedus": 4,
+            "image": "https://www.google.com",
+            "sharedQuedus_ids": [ObjectId("..."), ObjectId("...")]
+        }
+    ]
+}
+
+
